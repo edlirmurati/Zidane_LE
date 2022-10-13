@@ -7,7 +7,7 @@ body {
 
 h1{
     font-size: 2.5rem;
-    line-height: 1.5;
+    line-height: 1.5; 
     letter-spacing: 0.3rem;
     text-align: center;
     text-shadow: 2px 2px #2e8796;
@@ -134,11 +134,12 @@ nav li:focus-within .submenu {
 	               
  }
 
- .navbar {
+ nav {
     height: 100%;
     width: 100%;
     position: relative;
-    left: -25;
-    top: -325%;
+    left:10%;
+    top: -220%;
+    transform: translate(-10%, -10%);
+    background-size: 100% 100%;
  }
-

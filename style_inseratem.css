@@ -88,8 +88,8 @@ nav li:focus-within .submenu {
     background-size: 100% 100%;
 }
 .AutoInseratBild1{
-    height: 278px; /* 278*/
-    width: 891px; /*891 */
+    height: 278px;
+    width: 891px; 
     position: absolute;
     left: 380;
     top: 150%;
