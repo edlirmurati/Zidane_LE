@@ -94,7 +94,7 @@ nav li:focus-within .submenu {
     left: 380;
     top: 150%;
     transform: translate(-10%, -10%);
-    background-image: url(Auto1.PNG);
+    background-image: url(Moto1.png);
     background-size: 100% 100%;
 }
 .AutoInseratBild2{
@@ -104,7 +104,7 @@ nav li:focus-within .submenu {
     left: 10%;
     top: 270%;
     transform: translate(-10%, -10%);
-    background-image: url(Auto2.PNG);
+    background-image: url(Moto2.PNG);
     background-size: 100% 100%;
 }
 .AutoInseratBild3{
@@ -114,7 +114,7 @@ nav li:focus-within .submenu {
     left: 10%;
     top: 200%;
     transform: translate(-10%, -10%);
-    background-image: url(Auto3.PNG);
+    background-image: url(Moto3.PNG);
     background-size: 100% 100%;
 }
 .AutoInseratBild4{
@@ -124,7 +124,7 @@ nav li:focus-within .submenu {
     left: 10%;
     top: 260%;
     transform: translate(-10%, -10%);
-    background-image: url(Auto4.PNG);
+    background-image: url(Moto4.PNG);
     background-size: 100% 100%;
 }
 .AutoInseratBild5{
@@ -134,7 +134,7 @@ nav li:focus-within .submenu {
     left: 10%;
     top: 150%;
     transform: translate(-10%, -10%);
-    background-image: url(Auto5.PNG);
+    background-image: url(Moto5.PNG);
     background-size: 100% 100%; }
 
 .AutoInseratBild6{
@@ -144,7 +144,7 @@ nav li:focus-within .submenu {
         left: 10%;
         top: 30%;
         transform: translate(-10%, -10%);
-        background-image: url(Auto6.PNG);
+        background-image: url(Moto6.PNG);
         background-size: 100% 100%;
 }
 .AutoInseratBild7{
@@ -154,7 +154,7 @@ nav li:focus-within .submenu {
     left: 10%;
     top: 310%;
     transform: translate(-10%, -10%);
-    background-image: url(Autok7.PNG);
+    background-image: url(Moto7.PNG);
     background-size: 100% 100%;
 }
 
